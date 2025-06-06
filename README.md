@@ -1,16 +1,19 @@
-# week12_sec130_weather_project
+# Weather-Project-School-Project-
+This is a simple weather app made with Flutter and Dart, using data from the OpenWeatherMap API. Users can view current weather details like:
 
-A new Flutter project.
+- Temperature
+- Humidity
+- Pressure
+- Wind Speed
+- Weather Icon
+- Minimum & Maximum temperatures
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Select from multiple cities (e.g., Bangkok, Phuket, London)
+- Clean and responsive UI
+- Real-time data using OpenWeather API
 
-A few resources to get you started if this is your first Flutter project:
+## 📘 Note
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a student project for learning and demonstration purposes.
